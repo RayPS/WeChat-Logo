@@ -8,4 +8,4 @@
 
 
 
- ![ios_rounded](/Users/ray/Desktop/WeChat-Logo/ios_rounded.svg)
+ ![ios_rounded](ios_rounded.svg)
