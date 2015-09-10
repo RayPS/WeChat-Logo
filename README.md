@@ -1,6 +1,6 @@
 # WeChat Logo
 
-#### Unofficial but 90% similarity
+#### Unofficial but 99% similarity
 
 
 
