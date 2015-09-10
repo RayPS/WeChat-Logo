@@ -8,4 +8,4 @@
 
 
 
- ![ios_rounded](https://raw.githubusercontent.com/RayPS/WeChat-Logo/master/icon1024x1024.svg)
+ ![ios_rounded](ios_rounded.png)
